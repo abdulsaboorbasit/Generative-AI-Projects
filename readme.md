@@ -4,13 +4,11 @@ Welcome to my repo! This is where I showcase my Python projects, ranging from be
 
 ---
 
-## Table of Contents
+## About Me
 
-- [Python Projects](#python-projects)
-  - [Table of Contents](#table-of-contents)
-  - [Projects](#projects)
-  - [Technologies Used](#technologies-used)
-  - [](#)
+Hi! I’m **Abdul Saboor Basit**, a Python enthusiast passionate about coding and solving real-world problems. I’m constantly learning and sharing projects that highlight the versatility of Python, from data manipulation to web development.
+
+---
 
 ## Projects
 
@@ -32,6 +30,6 @@ For details about each project, check the respective folder and its `README.md`.
 
 Each project folder specifies additional dependencies or tools used.
 
-##
+## 
 
 Thank you for visiting my repository! ⭐ If you like my work, don’t forget to give it a star!
